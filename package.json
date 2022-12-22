@@ -19,7 +19,7 @@
     "express-session": "latest",
     "fs-extra": "latest",
     "http-proxy": "latest",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "md5": "latest",
     "mime": "latest",
     "mongoose": "^5.7.5",
